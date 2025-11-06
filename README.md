@@ -10,7 +10,7 @@ proyecto copilot
    ![Copiar enlace HTTPS](capturas/paso2_CopiarEnlace.jpeg)
 
 3. Cloné y abrí el repositorio desde la terminal de Visual Studio Code.  
-   ![Clonar y abrir repositorio](capturas/paso3_ClonaryAbrir_repositorio.jpeg)
+   ![Clonar y abrir repositorio](capturas/paso3_ClonarYabrir_repositorio.jpeg)
 
 4. Creé el archivo **"recomendacion_sistema.py"** y escribí el código con ayuda de Copilot.  
    ![Creación del archivo](capturas/paso4_Crear.PY.jpeg)
