@@ -20,3 +20,12 @@ proyecto copilot
 
 6. Probé el código que me entregó Copilot y funcionó correctamente.  
    ![Prueba del código](capturas/paso6_PruebaCodigo.jpeg)
+
+7. Hice commit y add para agregar y guardar los cambios.
+   ![commit y add ](capturas/paso7_add_commit.jpeg)
+
+8. Use el git remote add origin para conectar mi repositorio online con el local.
+   ![commit y add ](capturas/paso8_add_remote.jpeg)
+
+9. Subi los archivos locales a mi repositorio remoto con el git push.
+   ![git push ](capturas/paso9_push.jpeg)
